@@ -1,0 +1,17 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["morepaths", "brick", "pink", "xylophone", "music", "orange"],
+  "code": "mods.markgrant.MorePaths.XylophoneB",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": false,  
+  "emissiveColor": "EA4101",
+  "light": 0.5,
+  "stepSoundGroup": "staxel.sounds.musical.PianoB",
+  "representativeTile": "mods.markgrant.MorePaths.XylophoneA",
+  "voxels": "mods/MorePaths/Xylophone/XylophoneB.qb"
+}

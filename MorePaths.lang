@@ -1,0 +1,32 @@
+language.code=en-GB
+language=English
+
+mods.markgrant.MorePaths.XylophoneA.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneA.description= This path makes the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.XylophoneB.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneB.description= This path makes the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.XylophoneC.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneC.description= This path makes the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.XylophoneD.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneD.description= This path makes the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.XylophoneE.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneE.description= This path makes the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.XylophoneF.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneF.description= This path makes the sound of a xylophone when stepped on. 
+mods.markgrant.MorePaths.XylophoneG.name=Xylophone Path
+mods.markgrant.MorePaths.XylophoneG.description= This path makes the sound of a xylophone when stepped on.
+
+mods.markgrant.MorePaths.NonMusicalXylophoneA.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneA.description= This path doesn't make the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.NonMusicalXylophoneB.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneB.description= This path doesn't make the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.NonMusicalXylophoneC.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneC.description= This path doesn't make the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.NonMusicalXylophoneD.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneD.description= This path doesn't make the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.NonMusicalXylophoneE.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneE.description= This path doesn't make the sound of a xylophone when stepped on.
+mods.markgrant.MorePaths.NonMusicalXylophoneF.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneF.description= This path doesn't make the sound of a xylophone when stepped on. 
+mods.markgrant.MorePaths.NonMusicalXylophoneG.name=No Music Xylophone Path
+mods.markgrant.MorePaths.NonMusicalXylophoneG.description= This path doesn't make the sound of a xylophone when stepped on.

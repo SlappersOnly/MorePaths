@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "code": "mods.markgrant.MorePaths.CheckeredColourPath",
+  "alts": [
+    "mods/MorePaths/CheckeredColourPath/CheckeredColourPath2.qb",
+    "mods/MorePaths/CheckeredColourPath/CheckeredColourPath3.qb",
+    "mods/MorePaths/CheckeredColourPath/CheckeredColourPath4.qb",
+  ],
+  "altsCount": 4,
+  "categories": ["morepaths", "brick", "purple"],
+  "placementDirections": ["all"],
+  "attachmentDirections": ["all"],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "priority": 950,
+  "pathFindingPenalty": 3,
+  "voxels": "mods/MorePaths/CheckeredColourPath/CheckeredColourPath1.qb"
+}

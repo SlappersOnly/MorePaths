@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "code": "mods.markgrant.MorePaths.DiagonalStraigh",
+  "alts": [
+    "mods/MorePaths/misc/DiagonalBulge.qb",
+    "mods/MorePaths/misc/DiagonalUp.qb",
+    "mods/MorePaths/misc/DiagonalDown.qb",
+  ],
+  "altsCount": 4,
+  "categories": ["morepaths", "brick", "purple"],
+  "placementDirections": ["all"],
+  "attachmentDirections": ["all"],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "priority": 950,
+  "pathFindingPenalty": 3,
+  "voxels": "mods/MorePaths/misc/DiagonalStraight.qb"
+}

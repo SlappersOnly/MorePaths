@@ -1,0 +1,256 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["morepaths", "brick", "pink", "xylophone", "music", "red"],
+  "code": "mods.markgrant.MorePaths.XylophoneA",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "emissiveColor": "E01107",
+  "light": 0.5,
+  "stepSoundGroup": "staxel.sounds.musical.PianoA",
+  "voxels": "mods/MorePaths/Xylophone/XylophoneA.qb",
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneA"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneB"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneB"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneC"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneC"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneD"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneD"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneE"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneE"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneF"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneF"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneG"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneG"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneA"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneA"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneG"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneB"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneA"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneC"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneB"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneD"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneC"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneE"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneD"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneF"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneE"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.XylophoneG"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.XylophoneF"
+        }
+      ]
+    },
+	]
+}

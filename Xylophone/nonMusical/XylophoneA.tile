@@ -1,0 +1,256 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["morepaths", "brick", "pink", "xylophone", "music", "red"],
+  "code": "mods.markgrant.MorePaths.NonMusicalXylophoneA",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "emissiveColor": "E01107",
+  "light": 0.5,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/MorePaths/Xylophone/XylophoneA.qb",
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneA"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneB"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneB"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneC"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneC"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneD"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneD"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneE"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneE"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneF"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneF"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneG"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneG"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneA"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneA"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneG"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneB"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneA"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneC"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneB"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneD"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneC"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneE"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneD"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneF"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneE"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.markgrant.MorePaths.NonMusicalXylophoneG"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.markgrant.MorePaths.NonMusicalXylophoneF"
+        }
+      ]
+    },
+	]
+}

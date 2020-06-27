@@ -1,0 +1,20 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "code": "mods.markgrant.MorePaths.GreenScalesPath",
+  "categories": ["morepaths", "brick", "blue"],
+  "placementDirections": ["all"],
+  "attachmentDirections": ["all"],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "priority": 950,
+  "pathFindingPenalty": 3,
+  "voxels": "mods/MorePaths/scalePaths/GreenScalesPath.qb"
+}

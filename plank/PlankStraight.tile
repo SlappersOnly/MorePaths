@@ -1,0 +1,14 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["morepaths", "wood", "brown", "plank"],
+  "code": "mods.markgrant.MorePaths.PlankStraight",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,    
+	"buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,  
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/MorePaths/plank/PlankStraight1.qb"
+}
